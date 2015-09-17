@@ -3,9 +3,13 @@
     <h3 class="masthead-brand"><%= image_tag "ida-logo.png" %></h3>
     <nav>
       <ul class="nav masthead-nav">
-        <li class="active"><a href="#">Home</a></li>
-        <li><a href="#">Features</a></li>
-        <li><a href="#">Contact</a></li>
+        <% if action_name != 'agile' %>
+          <li class="active"><%= link_to "Home", "/static_pages/index" %></li>
+          <li><%= link_to "Agile", "/static_pages/agile" %></li>
+        <% else %>
+          <li><%= link_to "Home", "/static_pages/index" %></li>
+          <li class="active"><%= link_to "Agile", "/static_pages/agile" %></li>
+        <% end %>
       </ul>
     </nav>
   </div>

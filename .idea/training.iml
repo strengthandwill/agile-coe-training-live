@@ -122,6 +122,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" scope="PROVIDED" name="builder (v3.2.2, RVM: ruby-1.9.3-p551 [global]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bundler (v1.7.7, RVM: ruby-1.9.3-p551 [global]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="coderay (v1.1.0, RVM: ruby-1.9.3-p551 [global]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="erubis (v2.7.0, RVM: ruby-1.9.3-p551 [global]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="i18n (v0.7.0, RVM: ruby-1.9.3-p551 [global]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="mail (v2.6.3, RVM: ruby-1.9.3-p551 [global]) [gem]" level="application" />
