@@ -1,28 +1,15 @@
-== README
+== Agile Coe Training
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This repo will be used for training to learn about the following Agile Engineering Practises:
 
-Things you may want to cover:
+* Version Control using GIT
 
-* Ruby version
+* Test Driven Development (TDD)
 
-* System dependencies
+* Pairing Programming
 
-* Configuration
+* Refactoring
 
-* Database creation
+* Code Review (Pull Request)
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+* Continuous Integration (CI) using Bamboo
