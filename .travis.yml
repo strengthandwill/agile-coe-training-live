@@ -1,0 +1,9 @@
+language: ruby
+rvm:
+  - 2.1.5
+
+deploy:
+  provider: heroku
+  api_key: 26cea737-99ec-4147-8d64-0b67ae1871df
+  app: agile-coe-training-live
+  
